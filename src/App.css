@@ -139,3 +139,13 @@ body{
   text-align:center;
 }
 
+@media screen and (max-width: 600px) {
+  .container{
+      min-width:100vw;
+      min-height:100vh;
+      
+  }
+ 
+ 
+}
+
