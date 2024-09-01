@@ -12,6 +12,14 @@ body{
   justify-content:center;
   align-items:center;
 }
+
+#root{
+  width:100vw;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
 .container{
   width:350px;
   padding:20px;
@@ -145,7 +153,5 @@ body{
       min-height:100vh;
       
   }
- 
- 
-}
+  
 
